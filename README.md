@@ -46,15 +46,8 @@ it will show following Output
 <img src="Pic2.png">
 
 ## Download
-:paperclip: [Download Here](https://github.com/geosaleh/tic_tac_toe)
+:paperclip: [Download Here](https://github.com/geosaleh/tic_tac_toe/archive/refs/heads/main.zip)
 
 Hope you'll install it in your computer just to try .
 
 
-## Contributors
-[deepraj02](https://github.com/deepraj02)
-
-<img src="MyPic.jpg">
-
-### Functionality to be added undo and redo to add more flexibility to it.
-```
